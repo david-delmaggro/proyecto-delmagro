@@ -1,0 +1,92 @@
+body{
+background-color:black
+
+     } 
+
+h2{
+    
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: #bababa;
+     list-style-type: none;
+     font-weight: 300;
+     font-size: 30px;
+       }
+
+.list-item {
+  list-style: none;
+}
+
+.list-item a {
+          text-decoration: none;
+          font-size: 30px;
+          color: #bababa;
+          list-style-type: none;  
+
+         }
+nav{
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-weight: 500;
+    color:white;
+    text-align: right;
+}
+
+h1{
+  color: #bababa;
+  text-align: justify;
+}
+
+a{
+  text-decoration: none;
+  color:#fff;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 15px;
+}
+
+p{
+  color: #fff;
+  text-align: right;
+  
+}
+h3{
+  color: #bababa;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h4{
+  color:#bababa;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: right;
+ }
+ 
+ p{
+  font-weight: 400;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+form{
+  color: #bababa;
+}
+
+.list-item input{ 
+      width: 200px;
+      height: 100px;
+}
+
+h3{
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}  
+
+h4{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+}
+
+h5{
+  color:aliceblue;
+  text-align: center;
+  
+}
+
